@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c/Xri9901INDSqbFktDWTdp+d6nGUgXop8v9kRGbvMTIfI5OP21HwJMmeHG8Rz73iNG8BYl7SV4D0PEjmTNa6g==",
+  "success": true,
+  "projectFilePath": "/home/ian/Projects/Password generator/Password generator.csproj",
+  "expectedPackageFiles": [
+    "/home/ian/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.7/microsoft.aspnetcore.app.ref.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
